@@ -3,8 +3,6 @@ path = 'c:/users/nicolas/documents/data/thecarconnection/picturescraper/'
 
 os.chdir(path)
 
-# this is a  comment
-
 directory = 'c:/users/nicolas/desktop/scrap/'
 
 files = ['scrape', 'tag', 'save', 'select']
